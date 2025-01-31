@@ -3,7 +3,7 @@
 Estudante de Engenharia da Computação, apaixonado por tecnologia e programação, 
 sempre buscando aprender novas tecnologias e aprimorar as que já conheço. 
 Atualmente trabalho como técnico de informática, e estou em busca de migrar 
-para a área de DevOps.
+para a área de programação e atuar como Software Enginner ou Dev Backend.
 
 # Habilidades
 
